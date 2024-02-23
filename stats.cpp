@@ -1,16 +1,3 @@
-//****************************************************************************************************
-//     File:               stats.cpp
-// 
-//     Student:            Anna Sargsyan
-// 
-//     Assignment:         Program #8
-// 
-//     Course Name:        Programming I
-// 
-//     Course Number:      COSC 1550-01
-// 
-//     Due:                March 24, 2023
-//
 //     This program reads the scores from the file 'grades.txt'
 //     then calculates the maximum, minimum, total and average
 //     scores, as well as the number of scores.
